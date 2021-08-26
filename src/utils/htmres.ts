@@ -26,6 +26,16 @@ export const HTMLResponse = (subject:Subject,date:number,hour:number): String =>
         align-items: center;
         justify-content: center;
     }
+    button {
+  background-color: #555555; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
 </style>
 
 <body>
